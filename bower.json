@@ -11,7 +11,7 @@
     "angular"
   ],
   "license": "MIT",
-  "homepage": "github.com/cdjackson/angular-pick-a-color",
+  "homepage": "github.com/billyaraujo/angular-pick-a-color",
   "ignore": [
     "**/.*",
     "node_modules",
