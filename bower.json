@@ -20,9 +20,9 @@
     "tests"
   ],
   "dependencies": {
-    "pick-a-color-m": "~1.2.4"
+    "pick-a-color-m": "~1.3.0"
   },
   "devDependencies": {
-    "pick-a-color-m": "~1.2.4"
+    "pick-a-color-m": "~1.3.0"
   }
 }
